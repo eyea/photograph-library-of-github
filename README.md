@@ -1,2 +1,5 @@
-# photograph-library-of-github
-Let's try to collect the beautify !
+我发现 __Github__ 上有好多好看的图片，真的让我大吃一惊，于是就想把这些精美的图片收藏起来！
+
+如果你也有发现，哈哈哈，赶快收藏起来！
+
+希望这个“图库”能在大家的一双双发现美的眼睛下，通过PR或者别的形式把一张张精美图片添加进来！
