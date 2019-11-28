@@ -15,4 +15,4 @@
 
 ps: 
 1. 具体整理方式我还在想呢！
-2. 好像发现这里一片 [新大陆](https://octodex.github.com/)
+2. 好像发现这里一片 [新大陆](https://github.com/eyea/)
